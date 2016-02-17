@@ -1,0 +1,28 @@
+{
+	"ProjectName": "nativeScriptTypeScript",
+	"ProjectGuid": "{1eb75cb6-51c2-4545-99c2-2f2c8a08b402}",
+	"projectVersion": 1,
+	"AppIdentifier": "com.telerik.nativeScriptTypeScript",
+	"DisplayName": "nativeScriptTypeScript",
+	"Author": "",
+	"Description": "nativeScriptTypeScript",
+	"BundleVersion": "1.0",
+	"AndroidVersionCode": "1",
+	"iOSDeviceFamily": [
+		"1",
+		"2"
+	],
+	"iOSBackgroundMode": [],
+	"ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+	"AndroidPermissions": [
+		"android.permission.INTERNET"
+	],
+	"DeviceOrientations": [
+		"Portrait",
+		"Landscape"
+	],
+	"AndroidHardwareAcceleration": "false",
+	"iOSStatusBarStyle": "Default",
+	"FrameworkVersion": "1.5.2",
+	"Framework": "NativeScript"
+}
